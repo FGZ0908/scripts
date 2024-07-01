@@ -1,3 +1,5 @@
 #!/bin/zsh
-amixer -qM set Master 5%- umute
+amixer -qM set Master 3%- umute
+
+slstatus
 
